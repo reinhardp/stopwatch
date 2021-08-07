@@ -22,6 +22,8 @@ The setup is password protected.
 # Screenshots (Bildschirmfotos):
 ![Main](https://github.com/reinhardp/stopwatch/blob/master/sw_main.jpg?raw=true)
 
+![New](https://github.com/reinhardp/stopwatch/blob/master/sw_new.jpg?raw=true)
+
 ![Settings](https://github.com/reinhardp/stopwatch/blob/master/sw_settings.jpg?raw=true)
 
 ![View](https://github.com/reinhardp/stopwatch/blob/master/sw_view.jpg?raw=true)
