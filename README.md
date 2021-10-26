@@ -30,3 +30,4 @@ The setup is password protected.
 
 ![Resume](https://github.com/reinhardp/stopwatch/blob/master/sw_resume.jpg?raw=true)
 
+![Error](https://github.com/reinhardp/stopwatch/blob/master/sw_error.jpg?raw=true)
